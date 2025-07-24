@@ -1,0 +1,8 @@
+# Files and directories to ignore
+.vscode/
+node_modules/
+build/
+dist/
+.env
+npm-debug.log
+yarn-debug.log
