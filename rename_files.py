@@ -28,3 +28,5 @@ if __name__ == "__main__":
     # renomear_arquivos(MIDIA_FOLDER, "Metodos_ageis")
     # renomear_arquivos(MIDIA_FOLDER, "Negócios_inovadores")
     renomear_arquivos(MIDIA_FOLDER, "mobile")
+
+    ## criar uma forma mais didatica e usual para essa função;
