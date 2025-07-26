@@ -15,8 +15,8 @@ Este projeto automatiza a organização de arquivos de mídia (imagens, vídeos,
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/Lazarokaua/Organiza-pasta-obsidian.git
+    cd Organiza-pasta-obsidian
     ```
 
 2.  **Configure o Ambiente:**
